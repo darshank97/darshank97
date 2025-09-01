@@ -40,7 +40,7 @@ I am a **Data Engineer** with 3+ years of experience in building scalable data p
 
 ## 📚 Growing My Skills In
 
-- **Azure** & **AWS Cloud Engineering  
+- **Azure** & **AWS** Cloud Engineering  
 - **Real-Time Streaming** with Kafka & Spark Structured Streaming
 
 ---
